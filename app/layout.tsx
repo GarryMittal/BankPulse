@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "BankPulse",
   description: "BankPulse: Real-time banking that keeps your financial heartbeat strong.",
   icons:{
-    icon:'/icons/logo1.svg'
+    icon:'/icons/logo2.svg'
   }
 };
 
